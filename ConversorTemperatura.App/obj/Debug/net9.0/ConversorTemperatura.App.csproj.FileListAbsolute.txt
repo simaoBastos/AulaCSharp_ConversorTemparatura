@@ -1,0 +1,14 @@
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\bin\Debug\net9.0\ConversorTemperatura.App.exe
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\bin\Debug\net9.0\ConversorTemperatura.App.deps.json
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\bin\Debug\net9.0\ConversorTemperatura.App.runtimeconfig.json
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\bin\Debug\net9.0\ConversorTemperatura.App.dll
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\bin\Debug\net9.0\ConversorTemperatura.App.pdb
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.AssemblyInfoInputs.cache
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.AssemblyInfo.cs
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.csproj.CoreCompileInputs.cache
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.dll
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\refint\ConversorTemperatura.App.dll
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.pdb
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ConversorTemperatura.App.genruntimeconfig.cache
+C:\Users\wcc_devs\Documents\VSCode\AulaCSharp_ConversorTemparatura\ConversorTemperatura.App\obj\Debug\net9.0\ref\ConversorTemperatura.App.dll
