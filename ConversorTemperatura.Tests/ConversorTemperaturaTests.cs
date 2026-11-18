@@ -9,7 +9,7 @@ public class ConversorTemperaturaTests
     [InlineData(-40, -40)]
     public void Celsius_ParaFahrenheit(double entrada, double esperado)
     {
-        var servico = new ConversorTemperatura.App.ConversorTemperatura();
+        var servico = new App.ConversorTemperatura();
         Assert.Equal(esperado, servico.ParaFahrenheit(entrada), 6);
     }
     
@@ -18,7 +18,7 @@ public class ConversorTemperaturaTests
     [InlineData(212, 100)]
     public void Fahrenheit_ParaCelsius(double entrada, double esperado)
     {
-        var servico = new ConversorTemperatura.App.ConversorTemperatura();
+        var servico = new App.ConversorTemperatura();
         Assert.Equal(esperado, servico.ParaCelsius(entrada), 6);
     }
 }
